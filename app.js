@@ -1,1 +1,1 @@
-console.log("Here comes trouble");
+console.log("Here trouble");
